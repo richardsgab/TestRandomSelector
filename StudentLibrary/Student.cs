@@ -22,7 +22,14 @@ namespace StudentLibrary
         }
         public override string ToString()
         {
-            return $"{Id} - {Level} - {FirstName} - {LastName}";
+            return $"{Id} - Level: {Level} - {FirstName} {LastName}";
+        }
+        public string FullInfo
+        {
+            get
+            {
+                return $"{Id} - {Level} - {FirstName} {LastName}";
+            }
         }
 
     }

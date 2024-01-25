@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRandomSelector", "TestR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentLibrary", "StudentLibrary\StudentLibrary.csproj", "{A697E101-4974-4AA8-9131-27674E1DB13A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTesst", "ConsoleTesst\ConsoleTesst.csproj", "{F95A2BCC-3256-44AA-91DB-000BBE57F3A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A697E101-4974-4AA8-9131-27674E1DB13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A697E101-4974-4AA8-9131-27674E1DB13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A697E101-4974-4AA8-9131-27674E1DB13A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F95A2BCC-3256-44AA-91DB-000BBE57F3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95A2BCC-3256-44AA-91DB-000BBE57F3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95A2BCC-3256-44AA-91DB-000BBE57F3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95A2BCC-3256-44AA-91DB-000BBE57F3A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
